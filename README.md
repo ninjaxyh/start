@@ -1,0 +1,2 @@
+# start
+ninja start
